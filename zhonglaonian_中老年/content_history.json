@@ -1,0 +1,90 @@
+{
+  "description": "近30篇章创作记录，用于选题去重审核。每次创作完成后自动追加新条目，超过30条时自动裁剪最旧条目。",
+  "last_updated": "2026-05-13",
+  "entries": [
+    {
+      "date": "2026-05-13",
+      "slug": "chi-dong-yiqi-gai",
+      "title": "过了45岁才知道，吃和动这两件事得一起改，单改一个等于白改",
+      "topic_type": "交叉",
+      "sub_category": "饮食调理",
+      "age_group": "45-60",
+      "seasonal_tag": "母亲节/初夏",
+      "life_event": null,
+      "cross_categories": ["健康养生(饮食调理)", "健康养生(运动健身)"],
+      "narrative_tone": "赋能型",
+      "title_formula_used": ["误解纠正型", "可能发现型", "对比进步型", "重新定义型", "对比反常识型", "对比选择型", "状态变化型"],
+      "keywords": ["50岁后饮食要怎么调整", "50岁后最适合的运动方式", "45岁后吃和动一起调整效果更好"]
+    },
+    {
+      "date": "2026-05-13",
+      "slug": "chuxia-xueya-wending",
+      "title": "55岁后初夏血压波动千万要记住这3个稳住方法",
+      "topic_type": "基础",
+      "sub_category": "季节养生",
+      "age_group": "55-70",
+      "seasonal_tag": "立夏",
+      "life_event": null,
+      "cross_categories": null,
+      "narrative_tone": "焦虑→赋能",
+      "title_formula_used": ["年龄必知型", "数字痛点型", "状态变化型", "可能发现型", "名人权威型", "步骤实操型", "对比反常识型"],
+      "keywords": ["50岁后血压突然升高怎么办", "夏天中老年防暑降温攻略", "55岁后初夏血压波动怎么稳住"]
+    },
+    {
+      "date": "2026-05-13",
+      "slug": "xiaoman-shuimian-gaishan",
+      "title": "初夏睡得踏实只需睡前做3件小事",
+      "topic_type": "基础",
+      "sub_category": "睡眠改善",
+      "age_group": "55-70",
+      "seasonal_tag": "小满",
+      "life_event": null,
+      "cross_categories": null,
+      "narrative_tone": "赋能型",
+      "title_formula_used": ["简单可行型", "对比进步型", "可能发现型", "同龄示范型", "经验分享型", "对比反常识型", "状态变化型"],
+      "keywords": ["老年人失眠怎么办不用吃药", "半夜醒来再也睡不着怎么办", "改善睡眠的睡前习惯清单"]
+    },
+    {
+      "date": "2026-05-13",
+      "slug": "tuixiu-shiying-yueguo-yuehao",
+      "title": "退休后越活越好的5个改变——从迷茫到自在只用了一个月",
+      "topic_type": "事件",
+      "sub_category": "退休适应",
+      "age_group": "55-70",
+      "seasonal_tag": null,
+      "life_event": "正式退休日",
+      "cross_categories": null,
+      "narrative_tone": "赋能型",
+      "title_formula_used": ["对比进步型", "可能发现型", "重新定义型", "身份转变型", "同龄示范型", "简单可行型"],
+      "keywords": ["退休第一天不知所措怎么办", "退休后重建生活节奏方法", "退休后如何找到新的身份感"]
+    },
+    {
+      "date": "2026-05-13",
+      "slug": "dongzhi-zhaopian-huainian",
+      "title": "冬至一个人也暖——把老照片做成视频发给老朋友",
+      "topic_type": "交叉",
+      "sub_category": "情感表达",
+      "age_group": "65-80",
+      "seasonal_tag": "冬至",
+      "life_event": null,
+      "cross_categories": ["社交情感", "兴趣娱乐"],
+      "narrative_tone": "赋能型(温暖成就触发)",
+      "title_formula_used": ["同龄示范型", "重新定义型", "可能发现型", "行动成就型", "温暖情感型", "时代回忆型", "身份共鸣型"],
+      "keywords": ["老年人怎么表达自己的情感", "老年人写回忆录记录人生", "把老照片做成视频发给老朋友"]
+    },
+    {
+      "date": "2026-05-13",
+      "slug": "dongtian-nuanshen-lao-fangfa",
+      "title": "老年人冬天暖身子的3个老方法——比暖气还管用",
+      "topic_type": "基础",
+      "sub_category": "中医养生",
+      "age_group": "65-80",
+      "seasonal_tag": "小寒",
+      "life_event": null,
+      "cross_categories": null,
+      "narrative_tone": "温暖型",
+      "title_formula_used": ["简单高效型", "同龄示范型", "经验分享型", "时代回忆型", "可能发现型", "名人权威型"],
+      "keywords": ["老年人冬天怎么暖身子", "老年人冬天泡脚配方推荐", "冬天老年人保暖重点部位"]
+    }
+  ]
+}
