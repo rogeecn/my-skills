@@ -1,0 +1,32 @@
+# 白癜风和相关皮肤病 — 去重机制
+
+> 何时读取: 每次创作前检查去重、创作后追加记录时读取
+> 文件位置: workspace/.baidfeng/content_history.json（运行时读写）
+> 创建日期: 2026-05-15
+
+---
+
+## 去重机制说明
+
+### 规则
+1. 每次创作前，读取 `workspace/.baidfeng/content_history.json`
+2. 检查近30条创作记录的标题、品类、受众是否与新选题重复
+3. 重复判定标准: 同品类+同受众+同子品类的组合视为重复
+4. 创作完成后，追加新记录到文件末尾
+5. 超过30条时裁剪最旧的记录
+
+### 记录格式
+每条记录包含:
+- date: 创作日期（YYYY-MM-DD）
+- title: 文章标题
+- category: 品类编号（P1-P12）
+- sub_category: 子品类名
+- audience: 受众层级（L1-L5）
+- platform: 发布平台
+- series: 所属系列（如有）
+
+### 当前状态
+文件初始为空数组 `[]`，待首次创作后开始填充。
+
+### 文件路径
+`workspace/.baidfeng/content_history.json`
