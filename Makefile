@@ -1,5 +1,5 @@
 DIST_DIR := dist
-SKILLS := deai-humanize zhonglaonian_中老年 yuju_豫剧 shouchaobao_手抄报
+SKILLS := deai-humanize zhonglaonian_中老年 yuju_豫剧 shouchaobao_手抄报 baidfeng_白癜风
 
 .PHONY: dist clean
 
